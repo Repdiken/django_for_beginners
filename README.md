@@ -81,6 +81,23 @@ This chapter focused heavily on writing cleaner, more maintainable Django code.
 
 ---
 
+### Chapter 5 – Database-Backed Website & Django Models
+
+I've built and tested my first database-driven app and learned how to:
+- Create a database model, update it with the admin panel, and write tests. 
+- Looked at both function-based and class-based approaches for the views.
+
+---
+
+### Chapter 6 – Primary Keys & Foreign Keys + Static Files & CSS
+
+I built a basic blog application from scratch. I can create, edit, or delete the content using the Django admin, which will display a list of all posts on the homepage and individual pages for each post.
+I looked at:
+- Static files for the first time and added some styling with CSS.
+- Learned about using the get_absolute_url in my templates and made substantial progress on my test suite.
+
+---
+
 ## Notes
 
 - These projects closely follow the book but may include small personal adjustments.
